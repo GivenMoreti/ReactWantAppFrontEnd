@@ -14,6 +14,9 @@ function Nav() {
         <li>
           <a href="/#">Wanting</a>
         </li>
+        <li>
+          <a href="/#">Searches</a>
+        </li>
       </ul>
     </div>
   );
